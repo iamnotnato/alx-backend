@@ -1,14 +1,14 @@
 # English translations for i18n.
 # Copyright (C) 2023 Alan Nato
-# This file is distributed under the same license as the PROJECT project.
+# This file is distributed under the same license as the  project.
 # Alan Nato <alanwnato@gmail.com>, 2023.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
+"Project-Id-Version:  1.0\n"
 "Report-Msgid-Bugs-To: alanwnato@gmail.com\n"
-"POT-Creation-Date: 2023-10-31 21:58+0300\n"
-"PO-Revision-Date: 2023-10-31 22:00+0300\n"
+"POT-Creation-Date: 2023-10-31 22:11+0300\n"
+"PO-Revision-Date: 2023-10-31 22:13+0300\n"
 "Last-Translator: Alan Nato <alanwnato@gmail.com>\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
