@@ -1,5 +1,5 @@
-# Translations template for PROJECT.
-# Copyright (C) 2023 ORGANIZATION
+# Translations template for i18n.
+# Copyright (C) 2023 Alan Nato
 # This file is distributed under the same license as the PROJECT project.
 # Alan Nato  <alanwnato@gmail.com, 2023.
 #

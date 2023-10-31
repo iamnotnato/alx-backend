@@ -3,8 +3,11 @@
 # This file is distributed under the same license as the PROJECT project.
 # Alan Nato  <alanwnato@gmail.com, 2023.
 #
-msgid ""
-msgstr ""
+msgid "home_title"
+msgstr "Bienvenue chez Holberton"
+
+msgid "home_header"
+msgstr "Bonjour monde!"
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: alanwnato@gmail.com\n"
 "POT-Creation-Date: 2023-10-31 21:35+0300\n"
